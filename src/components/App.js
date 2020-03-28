@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './ispanskijshuanom.png';
+import logo from '../ispanskijshuanom.png';
 import 'bootstrap/dist/css/bootstrap.css';
-import './App.css';
+import '../App.css';
 import GoogleAuth from './GoogleAuth';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 
